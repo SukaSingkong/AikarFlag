@@ -14,7 +14,7 @@ Gw merekomendasi untuk menggunakan [Adoptium](https://adoptium.net/), tidak ada 
 
 ***Server Software yang didukung:***
 - [x] Vanilla
-- [x] Spigot/Paper dan segala jenis Fork-nya Purpur, Pufferfish, dsb – *([Mirai](https://github.com/etil2jz/Mirai) is recommended for ultimate performance)*
+- [x] Spigot/Paper dan segala jenis Fork-nya Purpur, Pufferfish, dsb – *([Mirai](https://github.com/etil2jz/Mirai) direkomendasi untuk performa dashyat di kasur eh di di minecraft)*
 - [x] Sponge
 - [x] Fabric
 - [x] Quilt
